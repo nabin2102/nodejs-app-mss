@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nabin2102/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
     "Mithun Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
-  "license": "MIT"
+  "author": "Shahdev kumar thapa ",
+  "license": "nabin_ad"
 }
